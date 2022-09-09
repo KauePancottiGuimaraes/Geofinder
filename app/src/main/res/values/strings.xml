@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Geofinder</string>
+    <string name="btnPlay">JOGAR</string>
+    <string name="btnReturn">VOLTAR</string>
+    <string name="txtLevels">LEVELS</string>
+    <string name="txtPergunta1">Qual é este local?</string>
+    <string name="Level1">1</string>
+    <string name="Level1A">A</string>
+    <string name="Level1B">B</string>
+    <string name="Level1C">C</string>
+    <string name="txtAlternativaF1A">Jogador A</string>
+    <string name="txtAlternativaF1B">Jogador B</string>
+    <string name="txtAlternativaF1C">Jogador C</string>
+    <string name="Level2">2</string>
+    <string name="Level3">3</string>
+    <string name="Level4">4</string>
+    <string name="Level5">5</string>
+    <string name="Level6">6</string>
+    <string name="Level7">7</string>
+    <string name="Level8">8</string>
+    <string name="Level9">9</string>
+    <string name="qual_este_jogador">Qual é este local?</string>
+    <string name="avisoErro">VOCÊ ERROU!!!</string>
+    <string name="voce_errou">VOCE ERROU!!!</string>
+    <string name="voce_acertou">VOCÊ ACERTOU!!!</string>
+    <string name="tente_novamente">TENTE NOVAMENTE</string>
+    <string name="todo">TODO</string>
+    <string name="latitude_pergunta">LATITUDE/LONGITUDE:</string>
+    <string name="dica">DICA!!!</string>
+    <string name="dica_botao">CLIQUE!</string>
+    <string name="bussola">Protótipo bússola</string>
+</resources>
